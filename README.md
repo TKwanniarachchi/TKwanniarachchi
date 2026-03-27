@@ -42,10 +42,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--🖼️ILOVEOPENSOURCE-->
->
-
-
-<br>
 
 ## 🤝 Let's Collaborate
 Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
@@ -65,8 +61,6 @@ Whether you're passionate about technology, a fellow game development enthusiast
 
 
 <br>
-<br>
-
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -76,12 +70,7 @@ Whether you're passionate about technology, a fellow game development enthusiast
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 
 </p>
-
-
-
 <!-- <p align="center"><img center="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />  -->
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--🖼️ILOVEOPENSOURCE-->
